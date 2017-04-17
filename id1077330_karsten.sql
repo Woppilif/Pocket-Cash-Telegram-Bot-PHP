@@ -132,16 +132,7 @@ CREATE TABLE `transactions` (
 -- Dumping data for table `transactions`
 --
 
-INSERT INTO `transactions` (`id`, `chat_id`, `name`, `price`, `type`, `date`, `account_id`) VALUES
-(1, 144914652, '', '0.1', 1, 1490486020, 1),
-(2, 356749344, '221', '', 0, 1490653990, 2),
-(3, 356749344, '', '221₽', 0, 1490654000, 2),
-(4, 356749344, 'alc', '500', 0, 1490699364, 2),
-(5, 356749344, 'Еда', '162', 0, 1490711870, 2),
-(6, 356749344, 'стрижка', '350', 0, 1490795408, 2),
-(7, 356749344, '', '2500', 1, 1490892616, 2),
-(8, 356749344, '', '300', 0, 1490892630, 2),
-(9, 356749344, 'еда', '100', 0, 1490892655, 2);
+
 
 -- --------------------------------------------------------
 
@@ -167,10 +158,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `chat_id`, `name`, `balance`, `password`, `reg_date`, `language`, `currency`, `last_update`, `account_id`, `allow_messages`) VALUES
-(1, 144914652, 'Sergey', 0.00, NULL, 1490484897, 'en', '₽', 1492188619, 1, 1),
-(2, 356749344, 'Ernest', 0.00, NULL, 1490653839, 'en', '₽', 1490892658, 2, 1),
-(3, 191704871, 'Amina', 0.00, NULL, 1490705417, 'ru', '₽', 1490705511, 3, 1);
 
 --
 -- Indexes for dumped tables
