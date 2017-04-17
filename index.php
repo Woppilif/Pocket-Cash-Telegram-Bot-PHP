@@ -1,15 +1,12 @@
 <?php
 require_once 'database/rb.php';
-R::setup( 'mysql:host=localhost;dbname=id1077330_karsten', 'id1077330_karsten', 'blink182' );
+R::setup( 'mysql:host=localhost;dbname=xx', '', 'pass' );
 
 
-define('BOT_TOKEN', '347721857:AAEkAGJ8cvxeKzmYFzXKLhI8okfoylkE0YQ');
+define('BOT_TOKEN', '');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 define('WEBHOOK_URL', 'https://karsten.000webhostapp.com/');
-/*define('BOT_TOKEN', '311147139:AAEpmrpjq6W2rOX9lzjJtSESgZbdrvf7cK8');
-define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
-define('WEBHOOK_URL', 'https://summersde.000webhostapp.com/');
-R::setup( 'mysql:host=localhost;dbname=id1115530_summers', 'id1115530_summers', 'blink182' );*/
+
 
 require_once 'request.php';
 require_once 'user.php';
