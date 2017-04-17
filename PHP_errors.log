@@ -1,0 +1,152 @@
+[19-Mar-2017 09:44:44 UTC] PHP Notice:  Undefined variable: command in /storage/h7/530/1115530/public_html/daily.php on line 37
+[19-Mar-2017 09:44:44 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/daily.php on line 37
+[19-Mar-2017 10:09:36 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /storage/h7/530/1115530/public_html/index.php on line 108
+[19-Mar-2017 10:09:41 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /storage/h7/530/1115530/public_html/index.php on line 108
+[19-Mar-2017 10:13:12 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:14:44 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:14:47 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:14:53 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:15:44 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:17:18 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:17:20 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:18:07 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:32:37 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:38:06 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[19-Mar-2017 10:52:29 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[19-Mar-2017 10:52:38 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:35:34 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:35:35 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:36:52 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:36:52 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:38:34 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:38:34 UTC] PHP Notice:  Undefined index: chat_id in /storage/h7/530/1115530/public_html/index.php on line 40
+[20-Mar-2017 19:38:35 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:39:54 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:39:54 UTC] PHP Notice:  Undefined index: longitude in /storage/h7/530/1115530/public_html/index.php on line 40
+[20-Mar-2017 19:39:54 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:42:24 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:42:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Message as array in /storage/h7/530/1115530/public_html/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /storage/h7/530/1115530/public_html/index.php on line 39
+[20-Mar-2017 19:43:00 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:43:00 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Message as array in /storage/h7/530/1115530/public_html/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /storage/h7/530/1115530/public_html/index.php on line 39
+[20-Mar-2017 19:43:22 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Message as array in /storage/h7/530/1115530/public_html/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /storage/h7/530/1115530/public_html/index.php on line 39
+[20-Mar-2017 19:44:47 UTC] PHP Notice:  Undefined index: longitude in /storage/h7/530/1115530/public_html/index.php on line 47
+[20-Mar-2017 19:44:47 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:44:59 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:45:47 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:45:47 UTC] PHP Notice:  Undefined index: longitude in /storage/h7/530/1115530/public_html/index.php on line 47
+[20-Mar-2017 19:45:47 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:46:42 UTC] PHP Notice:  Undefined index: text in /storage/h7/530/1115530/public_html/message.php on line 13
+[20-Mar-2017 19:46:42 UTC] PHP Notice:  Undefined index: longitude in /storage/h7/530/1115530/public_html/index.php on line 47
+[20-Mar-2017 19:46:43 UTC] Request has failed with error 400: Bad Request: message must be non-empty
+
+[20-Mar-2017 19:47:06 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/index.php on line 47
+[20-Mar-2017 19:47:19 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/index.php on line 47
+[21-Mar-2017 19:36:52 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[21-Mar-2017 19:47:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Account' not found in /storage/h7/530/1115530/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /storage/h7/530/1115530/public_html/index.php on line 34
+[21-Mar-2017 19:55:49 UTC] PHP Notice:  Undefined property: Account::$user_currency in /storage/h7/530/1115530/public_html/account.php on line 73
+[21-Mar-2017 20:07:54 UTC] PHP Notice:  Undefined index: account_id in /storage/h7/530/1115530/public_html/user.php on line 26
+[21-Mar-2017 20:17:33 UTC] PHP Notice:  Undefined property: Account::$chat_id in /storage/h7/530/1115530/public_html/account.php on line 45
+[21-Mar-2017 20:17:33 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 4438
+[21-Mar-2017 20:17:33 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 654
+[21-Mar-2017 20:17:33 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 49
+[21-Mar-2017 20:17:33 UTC] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid Bean value: property account_name in /storage/h7/530/1115530/public_html/database/rb.php:7126
+Stack trace:
+#0 /storage/h7/530/1115530/public_html/database/rb.php(7632): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 /storage/h7/530/1115530/public_html/database/rb.php(6888): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 /storage/h7/530/1115530/public_html/database/rb.php(7231): RedBeanPHP\Repository->storeBeanWithLists(Object(RedBeanPHP\OODBBean))
+#3 /storage/h7/530/1115530/public_html/database/rb.php(8310): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#4 /storage/h7/530/1115530/public_html/database/rb.php(10627): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#5 /storage/h7/530/1115530/public_html/account.php(53): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#6 /storage/h7/530/1115530/public_html/index.php(127): Account->CreateAccount(Array)
+#7 {main}
+  thrown in /storage/h7/530/1115530/public_html/database/rb.php on line 7126
+[21-Mar-2017 20:18:38 UTC] PHP Notice:  Undefined property: Account::$chat_id in /storage/h7/530/1115530/public_html/account.php on line 45
+[21-Mar-2017 20:18:38 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 4438
+[21-Mar-2017 20:18:38 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 654
+[21-Mar-2017 20:18:38 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 49
+[21-Mar-2017 20:18:38 UTC] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid Bean value: property account_name in /storage/h7/530/1115530/public_html/database/rb.php:7126
+Stack trace:
+#0 /storage/h7/530/1115530/public_html/database/rb.php(7632): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 /storage/h7/530/1115530/public_html/database/rb.php(6888): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 /storage/h7/530/1115530/public_html/database/rb.php(7231): RedBeanPHP\Repository->storeBeanWithLists(Object(RedBeanPHP\OODBBean))
+#3 /storage/h7/530/1115530/public_html/database/rb.php(8310): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#4 /storage/h7/530/1115530/public_html/database/rb.php(10627): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#5 /storage/h7/530/1115530/public_html/account.php(53): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#6 /storage/h7/530/1115530/public_html/index.php(127): Account->CreateAccount(Array)
+#7 {main}
+  thrown in /storage/h7/530/1115530/public_html/database/rb.php on line 7126
+[21-Mar-2017 20:19:06 UTC] PHP Notice:  Undefined property: Account::$chat_id in /storage/h7/530/1115530/public_html/account.php on line 45
+[21-Mar-2017 20:19:06 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 4438
+[21-Mar-2017 20:19:06 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 654
+[21-Mar-2017 20:19:06 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 49
+[21-Mar-2017 20:19:06 UTC] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid Bean value: property account_name in /storage/h7/530/1115530/public_html/database/rb.php:7126
+Stack trace:
+#0 /storage/h7/530/1115530/public_html/database/rb.php(7632): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 /storage/h7/530/1115530/public_html/database/rb.php(6888): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 /storage/h7/530/1115530/public_html/database/rb.php(7231): RedBeanPHP\Repository->storeBeanWithLists(Object(RedBeanPHP\OODBBean))
+#3 /storage/h7/530/1115530/public_html/database/rb.php(8310): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#4 /storage/h7/530/1115530/public_html/database/rb.php(10627): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#5 /storage/h7/530/1115530/public_html/account.php(53): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#6 /storage/h7/530/1115530/public_html/index.php(127): Account->CreateAccount(Array)
+#7 {main}
+  thrown in /storage/h7/530/1115530/public_html/database/rb.php on line 7126
+[21-Mar-2017 20:21:17 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 4438
+[21-Mar-2017 20:21:17 UTC] PHP Notice:  Array to string conversion in /storage/h7/530/1115530/public_html/database/rb.php on line 654
+[21-Mar-2017 20:21:17 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 51
+[21-Mar-2017 20:21:17 UTC] PHP Fatal error:  Uncaught RedBeanPHP\RedException: Invalid Bean value: property account_name in /storage/h7/530/1115530/public_html/database/rb.php:7126
+Stack trace:
+#0 /storage/h7/530/1115530/public_html/database/rb.php(7632): RedBeanPHP\Repository->check(Object(RedBeanPHP\OODBBean))
+#1 /storage/h7/530/1115530/public_html/database/rb.php(6888): RedBeanPHP\Repository\Fluid->storeBean(Object(RedBeanPHP\OODBBean))
+#2 /storage/h7/530/1115530/public_html/database/rb.php(7231): RedBeanPHP\Repository->storeBeanWithLists(Object(RedBeanPHP\OODBBean))
+#3 /storage/h7/530/1115530/public_html/database/rb.php(8310): RedBeanPHP\Repository->store(Object(RedBeanPHP\OODBBean))
+#4 /storage/h7/530/1115530/public_html/database/rb.php(10627): RedBeanPHP\OODB->store(Object(RedBeanPHP\OODBBean))
+#5 /storage/h7/530/1115530/public_html/account.php(55): RedBeanPHP\Facade::store(Object(RedBeanPHP\OODBBean))
+#6 /storage/h7/530/1115530/public_html/index.php(127): Account->CreateAccount(Array)
+#7 {main}
+  thrown in /storage/h7/530/1115530/public_html/database/rb.php on line 7126
+[21-Mar-2017 20:22:51 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 51
+[21-Mar-2017 20:23:39 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 51
+[22-Mar-2017 05:38:27 UTC] PHP Notice:  Undefined variable: accounts in /storage/h7/530/1115530/public_html/index.php on line 134
+[22-Mar-2017 05:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function GetAccounts() on null in /storage/h7/530/1115530/public_html/index.php:134
+Stack trace:
+#0 {main}
+  thrown in /storage/h7/530/1115530/public_html/index.php on line 134
+[22-Mar-2017 05:39:53 UTC] PHP Notice:  Undefined variable: chat_id in /storage/h7/530/1115530/public_html/account.php on line 66
+[22-Mar-2017 05:40:56 UTC] PHP Notice:  Undefined index: name in /storage/h7/530/1115530/public_html/account.php on line 71
+[22-Mar-2017 05:40:56 UTC] PHP Notice:  Undefined index: name in /storage/h7/530/1115530/public_html/account.php on line 71
+[22-Mar-2017 05:40:56 UTC] PHP Notice:  Undefined index: name in /storage/h7/530/1115530/public_html/account.php on line 71
+[22-Mar-2017 05:59:59 UTC] Request has failed with error 400: Bad Request: message text is empty
+
+[22-Mar-2017 06:00:46 UTC] Request has failed with error 400: Bad Request: message text is empty
+
